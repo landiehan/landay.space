@@ -1,4 +1,8 @@
 {
+  "name": "landay.space",
+  "scripts": {
+    "build": "turbo build"
+  },
   "devDependencies": {
     "turbo": "^1.8.3"
   }
