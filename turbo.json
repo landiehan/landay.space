@@ -3,6 +3,9 @@
   "pipeline": {
     "build": {
       "outputs": ["public/build"]
+    },
+    "dev": {
+      "persistent": true
     }
   }
 }
